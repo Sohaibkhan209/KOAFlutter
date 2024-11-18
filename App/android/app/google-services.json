@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438563238214",
+    "project_id": "boneapp-41f36",
+    "storage_bucket": "boneapp-41f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438563238214:android:d04c5c75475fc7b7267547",
+        "android_client_info": {
+          "package_name": "com.example.bone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZSK1DtGYgEWGxyYPyFuHfkuEiLFCeEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
